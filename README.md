@@ -1,4 +1,4 @@
-# ComputerVision_HW2
+# ComputerVision_CourseWork
 MFC (VS 2013) + openCV 2.4.7:  Background Substraction; Optical Flow Tracking; PCA; Face Detection and Recognition
 0. Homework Format
  1. (15%) Background Subtraction
